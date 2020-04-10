@@ -9,8 +9,14 @@ margarin
 60
 1288
 brasno
-40
+48
 1299
 maslinki
 120
+1311
+majonez
+45
+1385
+jogurt
+52
 
